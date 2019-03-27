@@ -8,3 +8,4 @@ git log
 
 git status
 
+learning git commands
