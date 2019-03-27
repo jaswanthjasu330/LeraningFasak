@@ -1,3 +1,10 @@
 this is VI Edition
 vi = to edit and create the file.
 cat = to see the file wihout opening
+
+git pull git push
+
+git log
+
+git status
+
