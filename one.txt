@@ -8,4 +8,8 @@ git log
 
 git status
 
+<<<<<<< HEAD
 git congig --global 
+=======
+learning git commands
+>>>>>>> 15e46e8b7fd169277d777be9e51a961bc5e679d8
